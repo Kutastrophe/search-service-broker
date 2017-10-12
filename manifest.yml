@@ -1,0 +1,6 @@
+---
+applications:
+- name: search-service-broker
+  memory: 768M
+  path: build/libs/search-service-broker.jar
+  buildpack: java_buildpack
