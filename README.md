@@ -13,3 +13,6 @@ Classes inside 'com.cloud.search.servicebroker.controller' package, handle vario
 Classes inside 'com.cloud.search.servicebroker.repository' package, handle functionality related to storage/retrieval. This code base uses 'hsqldb' database, no need to install.
 
 Classes inside 'com.cloud.search.servicebroker.service' package, constitute core search related functionality.
+
+The consumption of 'search' service is demonstrated at:
+https://github.com/cbagade/search-service-consumer
